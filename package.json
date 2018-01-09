@@ -1,5 +1,5 @@
 {
-  "name": "blacktide",
+  "name": "perfect-events",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaddJhin/BlackTide.git"
+    "url": "git+https://github.com/MaddJhin/perfect-events.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaddJhin/BlackTide/issues"
+    "url": "https://github.com/MaddJhin/perfect-events/issues"
   },
-  "homepage": "https://github.com/MaddJhin/BlackTide#readme"
+  "homepage": "https://github.com/MaddJhin/perfect-events#readme"
 }
